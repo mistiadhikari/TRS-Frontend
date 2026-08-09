@@ -23,11 +23,11 @@ const navLinks = [
   },
   {
     name: "Corporate Stay",
-    path: "/corporate-stay",
+    path: "/CorporateStay",
   },
   {
     name: "Explore",
-    path: "/attractions",
+    path: "/explore",
   },
   {
     name: "Contact",
